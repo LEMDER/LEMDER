@@ -2,6 +2,8 @@
 #### Beginner developer from Almaty, Kazakhstan.
 #### Studying at IITU to Software Engineer. From university I have back-end, front-end, UX/UI, PL/SQL, Android developing skills.
 
+___
+
 <h3 align="left">Connect with me:</h3>
 
 Email:`lemder.kz@gmail.com`
