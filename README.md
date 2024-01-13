@@ -1,6 +1,6 @@
 ## Alisher Lenkhan
-##### Beginner developer from Almaty, Kazakhstan.
-##### Studying at IITU to Software Engineer. From university I have back-end, front-end, UX/UI, PL/SQL, Android developing skills.
+#### Beginner developer from Almaty, Kazakhstan.
+#### Studying at IITU to Software Engineer. From university I have back-end, front-end, UX/UI, PL/SQL, Android developing skills.
 
 <h3 align="left">Connect with me:</h3>
 
